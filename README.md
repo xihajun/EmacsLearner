@@ -2,4 +2,8 @@
 看丹和很多人用emacs，我觉得自己也不能落后，虽然我的目标都是一日曝十日寒 :(
 ***
 - [ ] Flag: Be a Emacs 专家 (6 months goal)
-- [ ] Install emacs in hutchison's computer and use it as a daily basis (due by 2020. Aug 10th)
+- [x] Install emacs in hutchison's computer and use it as a daily basis (due by 2020. Aug 10th)
+  - 现在知道如何在Linux终端打开emacs了
+  - `dnf install emacs`
+  - `emacs filename`
+  - 其实貌似和vi差不多
