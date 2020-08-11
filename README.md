@@ -10,3 +10,4 @@
 
 - [x] 2020.8.11 Change a theme
   - [how to do that](http://ergoemacs.org/emacs/emacs_playing_with_color_theme.html)
+- [ ] Go though the tutorial (30 mins)
