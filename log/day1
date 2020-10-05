@@ -1,0 +1,16 @@
+day one: i will go through some interesting stuff with windows I think.
+
+How to open up multiple windows at the same time? Let us get started!
+
+- C-x 1 no it does't work.
+- this tutorial is a good start I think: https://ruby-china.org/topics/34558
+C-x 3 : 左右分割
+C-x 2 : 上下分割
+
+- then how to jump between windows
+
+Okay, you can use
+- C-x o to jump between windows: https://www.gnu.org/software/emacs/manual/html_node/emacs/Other-Window.html
+
+Now I knnnow how to dealling with winndows thing. but My keyborad seems to be bad to use. I have to fix it some days.
+
