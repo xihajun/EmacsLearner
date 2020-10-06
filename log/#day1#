@@ -21,3 +21,5 @@ config emacs with line:
 You can get line number showed.
 
 So why, when I configed the .emacs file it doesn;t work?!!
+
+(setq frame-title-format "emacs@%b")
