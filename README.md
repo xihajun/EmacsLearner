@@ -6,7 +6,7 @@ Learning how to use emacs to improve the productive forces!
 配置emacs使我头疼，看了一些攻略，看来应该先使用[高手](http://pages.sachachua.com/.emacs.d/Sacha.html#org332b2fd)的配置环境，熟悉一下他们的快捷方式之后继续学习可能会方便些。
 
 ***
-- [ ] Flag: Be a Emacs 专家 (6 months goal)
+- [ ] Be good at emacs
 - [x] Install emacs in hutchison's computer and use it as a daily basis (due by 2020. Aug 10th)
   - 现在知道如何在Linux终端打开emacs了
   - `dnf install emacs`
