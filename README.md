@@ -15,7 +15,7 @@ Learning how to use emacs to improve the productive forces!
 
 - [x] 2020.8.11 Change a theme
   - [how to do that](http://ergoemacs.org/emacs/emacs_playing_with_color_theme.html)
-- [ ] Go though the tutorial (30 mins)
+- [x] Go though the tutorial (30 mins)
 
 # Tips
 - [多行编辑](http://www.langdebuqing.com/emacs%20notebook/emacs%20多行编辑.html)
