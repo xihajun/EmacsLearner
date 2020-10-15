@@ -23,7 +23,7 @@ Learning how to use emacs to improve the productive forces!
   - c-x r k 删除
 - <details><summary>M-n M-p: half page roll</summary>
 <p>
-  ```
+  ```emacs
   (defun scroll-half-page-down ()
     "scroll down half the page"
     (interactive)
