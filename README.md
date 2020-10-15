@@ -21,7 +21,7 @@ Learning how to use emacs to improve the productive forces!
 # Tips
 - [多行编辑](http://www.langdebuqing.com/emacs%20notebook/emacs%20多行编辑.html)
   - c-x r k 删除
-- <details><summary>M-n M-p: half page roll</summary>
+<details><summary>M-n M-p: half page roll</summary>
 <p>
   ```emacs
   (defun scroll-half-page-down ()
@@ -39,7 +39,6 @@ Learning how to use emacs to improve the productive forces!
   ```
 </p>
 </details>
-  - [idea from here](https://github.com/AbstProcDo/Master-Emacs-From-Scratch-with-Solid-Procedures/blob/master/01.Semantic-Keybinding.org)
 
 # Games
 When I learned some vim command from [MIT lecture](https://www.youtube.com/watch?v=a6Q8Na575qc), the lecture mentioned VIMGolf - a vim game to improve your editor skill. I found simliar thing for emacs
