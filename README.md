@@ -22,7 +22,7 @@ Learning how to use emacs to improve the productive forces!
 - [多行编辑](http://www.langdebuqing.com/emacs%20notebook/emacs%20多行编辑.html)
   - c-x r k 删除
 -  M-n M-p: half page roll
-  - (idea from here)[https://github.com/AbstProcDo/Master-Emacs-From-Scratch-with-Solid-Procedures/blob/master/01.Semantic-Keybinding.org]
+  - [idea from here](https://github.com/AbstProcDo/Master-Emacs-From-Scratch-with-Solid-Procedures/blob/master/01.Semantic-Keybinding.org)
 ```
 (defun scroll-half-page-down ()
   "scroll down half the page"
