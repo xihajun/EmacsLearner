@@ -22,21 +22,21 @@ Learning how to use emacs to improve the productive forces!
 - [多行编辑](http://www.langdebuqing.com/emacs%20notebook/emacs%20多行编辑.html)
   - c-x r k 删除
 -  M-n M-p: half page roll
-  - [idea from here](https://github.com/AbstProcDo/Master-Emacs-From-Scratch-with-Solid-Procedures/blob/master/01.Semantic-Keybinding.org)
-```
-(defun scroll-half-page-down ()
-  "scroll down half the page"
-  (interactive)
-  (scroll-down (/ (window-body-height) 2)))
+    - [idea from here](https://github.com/AbstProcDo/Master-Emacs-From-Scratch-with-Solid-Procedures/blob/master/01.Semantic-Keybinding.org)
+  ```
+  (defun scroll-half-page-down ()
+    "scroll down half the page"
+    (interactive)
+    (scroll-down (/ (window-body-height) 2)))
+  
+  (defun scroll-half-page-up ()
+    "scroll up half the page"
+    (interactive)
+    (scroll-up (/ (window-body-height) 2)))
 
-(defun scroll-half-page-up ()
-  "scroll up half the page"
-  (interactive)
-  (scroll-up (/ (window-body-height) 2)))
-
-(global-set-key "\M-n" 'scroll-half-page-up)
-(global-set-key "\M-p" 'scroll-half-page-down)
-```
+  (global-set-key "\M-n" 'scroll-half-page-up)
+  (global-set-key "\M-p" 'scroll-half-page-down)
+  ```
 # Games
 When I learned some vim command from [MIT lecture](https://www.youtube.com/watch?v=a6Q8Na575qc), the lecture mentioned VIMGolf - a vim game to improve your editor skill. I found simliar thing for emacs
 
