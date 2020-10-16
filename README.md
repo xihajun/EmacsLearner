@@ -17,6 +17,16 @@ Learning how to use emacs to improve the productive forces!
 - [x] 2020.8.11 Change a theme
   - [how to do that](http://ergoemacs.org/emacs/emacs_playing_with_color_theme.html)
 - [x] Go though the tutorial (30 mins)
+## 浏览器
+浏览器在MacBook下还是使用Safari比较好，首先这个touch bar如果使用chrome就会被阉割，但是不知道火狐浏览器会是什么样的效果。
+
+那么要在MacBook下愉快地使用，我们需要下载几个插件：
+- Vimari 
+  - 可以直接在app商店上找到
+  - 使用快捷键对Safari网页进行操作
+- Pocket
+  - 可以打包网页，另外还有印象笔记，Instapaper等
+- 待续，为了用emacs加油
 
 ## Tips
 - [多行编辑](http://www.langdebuqing.com/emacs%20notebook/emacs%20多行编辑.html)
