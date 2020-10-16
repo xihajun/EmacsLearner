@@ -18,11 +18,12 @@ Learning how to use emacs to improve the productive forces!
   - [how to do that](http://ergoemacs.org/emacs/emacs_playing_with_color_theme.html)
 - [x] Go though the tutorial (30 mins)
 
-# Tips
+## Tips
 - [多行编辑](http://www.langdebuqing.com/emacs%20notebook/emacs%20多行编辑.html)
   - c-x r k 删除
 <details><summary>M-n M-p: half page roll</summary>
 <p>
+  
   ```python
   (defun scroll-half-page-down ()
     "scroll down half the page"
@@ -40,7 +41,7 @@ Learning how to use emacs to improve the productive forces!
 </p>
 </details>
 
-<head> Games </head>
+## Games 
 When I learned some vim command from [MIT lecture](https://www.youtube.com/watch?v=a6Q8Na575qc), the lecture mentioned VIMGolf - a vim game to improve your editor skill. I found simliar thing for emacs
 
 - From: [how to be efficient in emacs](https://www.reddit.com/r/emacs/comments/47p4sw/how_to_be_extremely_efficient_in_emacs/) I found nothing
