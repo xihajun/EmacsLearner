@@ -24,7 +24,7 @@ Learning how to use emacs to improve the productive forces!
 <details><summary>M-n M-p: half page roll</summary>
 <p>
   
-  ```python
+  ```el
   (defun scroll-half-page-down ()
     "scroll down half the page"
     (interactive)
