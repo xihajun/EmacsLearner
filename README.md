@@ -17,6 +17,9 @@ Learning how to use emacs to improve the productive forces!
 - [x] 2020.8.11 Change a theme
   - [how to do that](http://ergoemacs.org/emacs/emacs_playing_with_color_theme.html)
 - [x] Go though the tutorial (30 mins)
+## spacemacs in terminal
+I think the terminal is more useful this time than a GUI. Maybe let try to get use to do it in the terminal.
+- install spacemacs
 ## 浏览器
 浏览器在MacBook下还是使用Safari比较好，首先这个touch bar如果使用chrome就会被阉割，但是不知道火狐浏览器会是什么样的效果。
 
