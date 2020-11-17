@@ -20,6 +20,7 @@ Learning how to use emacs to improve the productive forces!
 ## spacemacs in terminal
 I think the terminal is more useful this time than a GUI. Maybe let try to get use to do it in the terminal.
 - install spacemacs
+- 重新下载spacemacs出现了难以解决的问题，为什么终端和GUI要下载两遍，为什么MacBook的各种版本那么复杂
 ## 浏览器
 浏览器在MacBook下还是使用Safari比较好，首先这个touch bar如果使用chrome就会被阉割，但是不知道火狐浏览器会是什么样的效果。
 
